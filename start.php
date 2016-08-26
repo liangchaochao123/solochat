@@ -1,32 +1,5 @@
 <?php 
-error_reporting(0);
 header('Content-Type: text/html; charset=utf-8');
-// $str="/rest/user/radio/disable/report";
-// echo file_get_contents($str);
-
-
-	// $arr=$pdo->query("select * from user ")->fetchAll(PDO::FETCH_ASSOC);   
-// 	// print_r($arr);
-// 	$str= json_encode($arr);
-// 	$arr1=json_decode($str);
-
-// 	print_r($arr1);
-
-	// $path="./public/index/html";
-	// $name="index.html";
-	// $filename=$path.$name;
-	// if(file_exists($filename)&&time()-filename($filename)<5)){
-	// 	echo 123;
-	// 	echo file_get_contents($filename);
-	// }
-	// if(is_dir($path)){
-	// 	if(!mkdir($path,777,true)){
-	// 		echo "Create fail";
-	// 	}
-	// }
-	// $filename=$path.$name;
-	// file_put_contents($filename, )
-
 	/*
 		电台数据入库
 	*/
@@ -55,7 +28,7 @@ header('Content-Type: text/html; charset=utf-8');
 
 			try{  
 
-				$servername = "127.0.0.1";
+				$servername = "52.42.54.201";
 				$username = "root";
 				$password = "root";
 
