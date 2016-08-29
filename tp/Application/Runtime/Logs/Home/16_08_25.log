@@ -1,0 +1,18 @@
+[ 2016-08-25T09:03:25+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string E:\phpstudy\WWW\tp\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2016-08-25T15:14:46+08:00 ] 127.0.0.1 /tp/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string E:\phpstudy\WWW\tp\Application\Home\Controller\IndexController.class.php 第 24 行.
+
