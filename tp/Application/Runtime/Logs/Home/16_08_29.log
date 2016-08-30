@@ -1,0 +1,83 @@
+[ 2016-08-29T15:43:45+08:00 ] 127.0.0.1 /tp/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string E:\phpstudy\WWW\tp\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2016-08-29T15:56:36+08:00 ] 127.0.0.1 /tp/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-29T15:58:46+08:00 ] 127.0.0.1 /tp/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: Model E:\phpstudy\WWW\tp\Application\Home\Controller\IndexController.class.php 第 49 行.
+
+[ 2016-08-29T15:59:07+08:00 ] 127.0.0.1 /tp/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-29T16:04:27+08:00 ] 127.0.0.1 /tp/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-29T16:05:00+08:00 ] 127.0.0.1 /tp/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0010s ]
+
+[ 2016-08-29T16:06:50+08:00 ] 127.0.0.1 /tp/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-29T16:15:58+08:00 ] 127.0.0.1 /tp/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
