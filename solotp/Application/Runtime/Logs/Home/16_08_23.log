@@ -1,0 +1,1418 @@
+[ 2016-08-23T09:50:58+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T09:51:58+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T09:52:16+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T09:54:15+08:00 ] 127.0.0.1 /tp/index.php?index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:index
+
+[ 2016-08-23T09:54:20+08:00 ] 127.0.0.1 /tp/index.php?index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:index
+
+[ 2016-08-23T09:54:56+08:00 ] 127.0.0.1 /tp/index.php?user/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-08-23T09:55:56+08:00 ] 127.0.0.1 /tp/index.php?user/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:index
+
+[ 2016-08-23T09:56:03+08:00 ] 127.0.0.1 /tp/index.php?user/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T09:59:13+08:00 ] 127.0.0.1 /tp/index.php?index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T09:59:18+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:04:18+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:04:24+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:05:23+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:26:32+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:28:01+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0170s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:28:02+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T10:28:13+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:28:16+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:28:16+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T10:28:16+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T10:29:21+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:29:22+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T10:29:58+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0100s ]
+ERR: Think\Model:index1方法不存在！
+
+[ 2016-08-23T10:31:10+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0090s ]
+ERR: Think\Model:index1方法不存在！
+
+[ 2016-08-23T10:31:22+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:31:49+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:31:51+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:53:58+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T10:54:10+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T10:56:03+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:56:04+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:57:17+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:57:43+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:57:44+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:57:44+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T10:58:40+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:59:01+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T10:59:02+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T10:59:53+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T11:09:27+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-23T11:13:50+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T11:14:12+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T11:14:13+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined offset: 0 E:\phpstudy\WWW\tp\ThinkPHP\Library\Think\Model.class.php 第 222 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T11:16:19+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `user` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T11:16:40+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T11:37:46+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `user`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T11:39:59+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T11:40:46+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T11:41:21+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given E:\phpstudy\WWW\tp\Application\Home\Controller\IndexController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-23T11:41:24+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0010s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given E:\phpstudy\WWW\tp\Application\Home\Controller\IndexController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T11:41:34+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T11:47:36+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0000s ]
+
+[ 2016-08-23T11:52:45+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T11:53:01+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select * from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T11:53:03+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T11:59:59+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'radio_id' in field list is ambiguous
+
+[ 2016-08-23T12:00:20+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select count(*),radio.radio_id from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T12:00:53+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select count(*),radio.radio_id,radio.radio_name from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T12:01:08+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select count(*),radio.radio_id,radio.radio_name,radio_img from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T12:01:14+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select count(*),radio.radio_id,radio_name,radio_img from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T12:06:41+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 参数错误或者未定义:user_id
+
+[ 2016-08-23T12:06:53+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T14:17:04+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 参数错误或者未定义:user_id
+
+[ 2016-08-23T14:17:21+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select count(*),radio.radio_id,radio_name,radio_img from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id [ RunTime:0.0000s ]
+SQL: select count(*),radio.radio_id,radio_name,radio_img from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0010s ]
+
+[ 2016-08-23T14:49:26+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id),radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id;
+ [ RunTime:0.0020s ]
+SQL: select count(*),radio.radio_id,radio_name,radio_img from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0010s ]
+
+[ 2016-08-23T14:49:39+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id),radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id;
+ [ RunTime:0.0010s ]
+SQL: select count(*),radio.radio_id,radio_name,radio_img from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0000s ]
+
+[ 2016-08-23T14:50:37+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id;
+ [ RunTime:0.0010s ]
+SQL: select count(*),radio.radio_id,radio_name,radio_img from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id where user_radio.user_id=2 [ RunTime:0.0000s ]
+
+[ 2016-08-23T15:01:45+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T15:02:39+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-23T15:02:44+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T15:03:01+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0010s ]
+
+[ 2016-08-23T15:11:58+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T15:25:55+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0020s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0010s ]
+
+[ 2016-08-23T15:26:04+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0010s ]
+
+[ 2016-08-23T15:28:03+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selet  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_i' at line 1
+
+[ 2016-08-23T15:28:44+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T15:29:30+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T15:29:38+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T15:30:02+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: radio E:\phpstudy\WWW\tp\Application\Home\Controller\IndexController.class.php 第 33 行.
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0010s ]
+
+[ 2016-08-23T15:30:21+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T15:31:29+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0010s ]
+
+[ 2016-08-23T15:31:51+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+
+[ 2016-08-23T15:31:57+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'uer_radio.radio_id' in 'group statement'
+
+[ 2016-08-23T15:31:59+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'uer_radio.radio_id' in 'group statement'
+
+[ 2016-08-23T15:40:01+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T15:40:11+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T15:57:49+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0020s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0020s ]
+
+[ 2016-08-23T15:57:52+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0010s ]
+
+[ 2016-08-23T15:57:56+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T15:58:02+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T16:07:25+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T16:08:21+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0010s ]
+
+[ 2016-08-23T16:31:03+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T16:31:28+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img,room_url from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.user_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T16:50:40+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as listen_num,room.room_id,room_title,room_img,room_url from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+
+[ 2016-08-23T17:02:28+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0010s ]
+
+[ 2016-08-23T17:02:54+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:07:54+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:07:57+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:11:09+08:00 ] 127.0.0.1 /tp/index.php?category/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T17:11:23+08:00 ] 127.0.0.1 /tp/index.php?categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T17:11:28+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-23T17:12:02+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T17:12:04+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T17:12:08+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:12:28+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:13:21+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T17:13:26+08:00 ] 127.0.0.1 /tp/index.php?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:13:47+08:00 ] 127.0.0.1 /tp/index.php?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:
+
+[ 2016-08-23T17:13:53+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:
+
+[ 2016-08-23T17:13:55+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:
+
+[ 2016-08-23T17:14:03+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:14:05+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T17:14:19+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:14:32+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:14:34+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T17:14:39+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:list
+
+[ 2016-08-23T17:14:45+08:00 ] 127.0.0.1 /tp/index.php?category/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:15:17+08:00 ] 127.0.0.1 /tp/index.php?category/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T17:15:30+08:00 ] 127.0.0.1 /tp/index.php?Category/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:20:17+08:00 ] 127.0.0.1 /tp/index.php?index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0020s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:20:25+08:00 ] 127.0.0.1 /tp/index.php?category/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:29:23+08:00 ] 127.0.0.1 /tp/index.php?category/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id [ RunTime:0.0000s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T17:47:16+08:00 ] 127.0.0.1 /tp/index.php?category/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id order by radio_listen_num desc [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T17:47:29+08:00 ] 127.0.0.1 /tp/index.php?category/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id order by radio_listen_num desc [ RunTime:0.0000s ]
+
+[ 2016-08-23T18:01:44+08:00 ] 127.0.0.1 /tp/index.php?category/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as user limit 2' at line 1
+
+[ 2016-08-23T18:01:46+08:00 ] 127.0.0.1 /tp/index.php?category/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as user limit 2' at line 1
+
+[ 2016-08-23T18:30:20+08:00 ] 127.0.0.1 /tp/index.php?index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select  count(user_radio.user_id) as radio_listen_num,radio.radio_id,radio_name,radio_img,radio_url from user_radio INNER JOIN user on  user_radio.user_id=user.user_id INNER JOIN radio on user_radio.radio_id=radio.radio_id group by user_radio.radio_id order by radio_listen_num desc  [ RunTime:0.0010s ]
+SQL: select  count(user_room.user_id) as room_listen_num,room.room_id,room_title,room_img,room_url,user.user_name from user_room INNER JOIN user on  user_room.user_id=user.user_id INNER JOIN room on user_room.room_id=room.room_id group by user_room.room_id [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-23T18:35:09+08:00 ] 127.0.0.1 /tp/index.php?m=Home&c=category&a=lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-23T18:35:55+08:00 ] 127.0.0.1 /tp/index.php/Home/category/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
